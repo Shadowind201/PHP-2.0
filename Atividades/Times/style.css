@@ -1,0 +1,27 @@
+body{
+    border: 200px;
+}
+
+header{
+    height: 150px;
+    background-color: black;
+    color: white;
+}
+
+.times{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.times img{
+        width: 200px;
+        height: 100x;                      
+}
+
+.card{
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+}

@@ -1,0 +1,5 @@
+Bruce Wayne; bruce@gmail.com;
+Clank Kent; ckent@gmail.com;
+Peter Parker; aranha@gmail.com;
+Sinji Ikari; sinji@gmail.com;
+Rei Ayanami; rei@gmail.com;

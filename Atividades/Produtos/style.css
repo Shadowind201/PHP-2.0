@@ -1,0 +1,19 @@
+body{
+    width: 900px;
+}
+
+.produtos{
+    align-items: center;
+
+
+}
+
+.produtos img{
+    width: 200px;
+    height: 100x;                      
+}
+
+.card{
+    border: 5px;
+    border-color: black;
+}
