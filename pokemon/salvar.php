@@ -17,5 +17,5 @@ mysqli_query($conexao, $sql);
 
 mysqli_close($conexao);
 
-header("location")
+header("location:admin.php")
 ?>
