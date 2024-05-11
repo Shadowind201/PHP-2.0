@@ -1,4 +1,5 @@
 <?php
+
     $tipo = $_POST["tipo"];
     $nome = $_POST["nome"];
     $descricao = $_POST["descricao"];
