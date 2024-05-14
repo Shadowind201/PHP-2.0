@@ -1,5 +1,6 @@
 <?php
 
+$id = $_GET['id'];
 $nome = $_POST['nome'];
 $quantidade = $_POST['quantidade'];
 $nota = $_POST['nota'];
